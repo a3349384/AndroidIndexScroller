@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IndexScroller">
+        <attr name="is_textSize" format="dimension"/>
+        <attr name="is_textSizePressed" format="dimension"/>
+        <attr name="is_balloonSize" format="dimension"/>
+        <attr name="is_balloonMargin" format="dimension"/>
+        <attr name="is_textNormalColor" format="color"/>
+        <attr name="is_textPressedColor" format="color"/>
+        <attr name="is_balloonTextSize" format="dimension"/>
+        <attr name="is_balloonTextColor" format="color"/>
+        <attr name="is_balloonBackground" format="reference|color"/>
+        <attr name="is_clipBalloon" format="boolean"/>
+    </declare-styleable>
+</resources>
