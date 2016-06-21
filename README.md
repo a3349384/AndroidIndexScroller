@@ -4,3 +4,5 @@
 
 添加引用：https://jitpack.io/#a3349384/AndroidIndexScroller
 
+demo程序下载：https://github.com/a3349384/AndroidIndexScroller/raw/master/demo.apk
+
